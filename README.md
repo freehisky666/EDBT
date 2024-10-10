@@ -1,5 +1,5 @@
 Knowledge tracking code
-Integrating Global Information and Hidden Information for Knowledge Tracing
+Deep Learning-Driven Knowledge Tracing Dateset via Transformed Label Values
 
 Requirements
 PyTorch==1.7.0
